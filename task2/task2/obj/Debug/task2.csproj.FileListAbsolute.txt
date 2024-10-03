@@ -1,0 +1,8 @@
+Z:\kasd\task2\task2\obj\Debug\task2.csproj.AssemblyReference.cache
+Z:\kasd\task2\task2\obj\Debug\task2.csproj.SuggestedBindingRedirects.cache
+Z:\kasd\task2\task2\obj\Debug\task2.csproj.CoreCompileInputs.cache
+Z:\kasd\task2\task2\bin\Debug\task2.exe.config
+Z:\kasd\task2\task2\bin\Debug\task2.exe
+Z:\kasd\task2\task2\bin\Debug\task2.pdb
+Z:\kasd\task2\task2\obj\Debug\task2.exe
+Z:\kasd\task2\task2\obj\Debug\task2.pdb
