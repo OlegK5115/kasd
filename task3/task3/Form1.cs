@@ -36,11 +36,10 @@ namespace task3
                 double middle = 0;
                 for (int count = 0; count < 20; count++)
                 {
-                    Array.Copy(gen_mass[i], sort_mass[i], size);
+                    Array.Copy(gen_mass[i], sort_mass[i], gen_mass[i].Length);
                     sw = new Stopwatch();
                     sw.Start();
                     fn(sort_mass[i]);
-                    Sorting.sort_bubble(sort_mass[i]);
                     sw.Stop();
                     middle += sw.ElapsedMilliseconds;
                 }
@@ -166,7 +165,7 @@ namespace task3
             executed = true;
         }
 
-        private void button3_Click(object sender, EventArgs e)
+        private async void button3_Click(object sender, EventArgs e)
         {
             if (!executed) { return; }
             StreamWriter gen_file = new StreamWriter("../gen_file.txt");
@@ -174,9 +173,9 @@ namespace task3
             {
                 for (int j = 0; j < gen_mass[i].Length; j++)
                 {
-                    gen_file.Write($"{gen_mass[i][j] } ");
+                    await gen_file.WriteAsync($"{gen_mass[i][j] } ");
                 }
-                gen_file.WriteLine();
+                await gen_file.WriteLineAsync();
             }
 
             StreamWriter sort_file = new StreamWriter("../sort_file.txt");
@@ -184,9 +183,9 @@ namespace task3
             {
                 for (int j = 0; j < sort_mass[i].Length; j++)
                 {
-                    sort_file.Write($"{sort_mass[i][j]} ");
+                    await sort_file.WriteAsync($"{sort_mass[i][j]} ");
                 }
-                sort_file.WriteLine();
+                await sort_file.WriteLineAsync();
             }
         }
     }
