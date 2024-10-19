@@ -1,7 +1,0 @@
-C:\Users\konni\OneDrive\Desktop\task5\task5\bin\Debug\task5.exe.config
-C:\Users\konni\OneDrive\Desktop\task5\task5\bin\Debug\task5.exe
-C:\Users\konni\OneDrive\Desktop\task5\task5\bin\Debug\task5.pdb
-C:\Users\konni\OneDrive\Desktop\task5\task5\obj\Debug\task5.csproj.AssemblyReference.cache
-C:\Users\konni\OneDrive\Desktop\task5\task5\obj\Debug\task5.csproj.CoreCompileInputs.cache
-C:\Users\konni\OneDrive\Desktop\task5\task5\obj\Debug\task5.exe
-C:\Users\konni\OneDrive\Desktop\task5\task5\obj\Debug\task5.pdb
