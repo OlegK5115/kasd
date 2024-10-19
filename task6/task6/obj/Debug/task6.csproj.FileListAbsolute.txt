@@ -1,0 +1,7 @@
+Z:\kasd\task6\task6\bin\Debug\task6.exe.config
+Z:\kasd\task6\task6\bin\Debug\task6.exe
+Z:\kasd\task6\task6\bin\Debug\task6.pdb
+Z:\kasd\task6\task6\obj\Debug\task6.csproj.SuggestedBindingRedirects.cache
+Z:\kasd\task6\task6\obj\Debug\task6.csproj.CoreCompileInputs.cache
+Z:\kasd\task6\task6\obj\Debug\task6.exe
+Z:\kasd\task6\task6\obj\Debug\task6.pdb
