@@ -1,0 +1,8 @@
+Z:\kasd\task8\task8\bin\Debug\task8.exe.config
+Z:\kasd\task8\task8\bin\Debug\task8.exe
+Z:\kasd\task8\task8\bin\Debug\task8.pdb
+Z:\kasd\task8\task8\obj\Debug\task8.csproj.AssemblyReference.cache
+Z:\kasd\task8\task8\obj\Debug\task8.csproj.SuggestedBindingRedirects.cache
+Z:\kasd\task8\task8\obj\Debug\task8.csproj.CoreCompileInputs.cache
+Z:\kasd\task8\task8\obj\Debug\task8.exe
+Z:\kasd\task8\task8\obj\Debug\task8.pdb
