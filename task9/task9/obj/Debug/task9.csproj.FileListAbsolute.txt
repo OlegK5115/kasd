@@ -1,0 +1,7 @@
+C:\Users\konni\OneDrive\Desktop\kasd\task9\task9\bin\Debug\task9.exe.config
+C:\Users\konni\OneDrive\Desktop\kasd\task9\task9\bin\Debug\task9.exe
+C:\Users\konni\OneDrive\Desktop\kasd\task9\task9\bin\Debug\task9.pdb
+C:\Users\konni\OneDrive\Desktop\kasd\task9\task9\obj\Debug\task9.csproj.AssemblyReference.cache
+C:\Users\konni\OneDrive\Desktop\kasd\task9\task9\obj\Debug\task9.csproj.CoreCompileInputs.cache
+C:\Users\konni\OneDrive\Desktop\kasd\task9\task9\obj\Debug\task9.exe
+C:\Users\konni\OneDrive\Desktop\kasd\task9\task9\obj\Debug\task9.pdb
