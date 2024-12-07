@@ -1,0 +1,15 @@
+C:\Users\konni\OneDrive\Desktop\task10\task10\obj\Debug\task10.csproj.AssemblyReference.cache
+C:\Users\konni\OneDrive\Desktop\task10\task10\obj\Debug\task10.csproj.CoreCompileInputs.cache
+C:\Users\konni\OneDrive\Desktop\task10\task10\bin\Debug\task10.exe.config
+C:\Users\konni\OneDrive\Desktop\task10\task10\bin\Debug\task10.exe
+C:\Users\konni\OneDrive\Desktop\task10\task10\bin\Debug\task10.pdb
+C:\Users\konni\OneDrive\Desktop\task10\task10\obj\Debug\task10.exe
+C:\Users\konni\OneDrive\Desktop\task10\task10\obj\Debug\task10.pdb
+D:\task10\task10\bin\Debug\task10.exe.config
+D:\task10\task10\bin\Debug\task10.exe
+D:\task10\task10\bin\Debug\task10.pdb
+D:\task10\task10\obj\Debug\task10.csproj.AssemblyReference.cache
+D:\task10\task10\obj\Debug\task10.csproj.SuggestedBindingRedirects.cache
+D:\task10\task10\obj\Debug\task10.csproj.CoreCompileInputs.cache
+D:\task10\task10\obj\Debug\task10.exe
+D:\task10\task10\obj\Debug\task10.pdb
