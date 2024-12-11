@@ -1,0 +1,7 @@
+C:\Users\konni\OneDrive\Desktop\task11\task11\bin\Debug\task11.exe.config
+C:\Users\konni\OneDrive\Desktop\task11\task11\bin\Debug\task11.exe
+C:\Users\konni\OneDrive\Desktop\task11\task11\bin\Debug\task11.pdb
+C:\Users\konni\OneDrive\Desktop\task11\task11\obj\Debug\task11.csproj.AssemblyReference.cache
+C:\Users\konni\OneDrive\Desktop\task11\task11\obj\Debug\task11.csproj.CoreCompileInputs.cache
+C:\Users\konni\OneDrive\Desktop\task11\task11\obj\Debug\task11.exe
+C:\Users\konni\OneDrive\Desktop\task11\task11\obj\Debug\task11.pdb
