@@ -1,0 +1,15 @@
+E:\task16\task16\bin\Debug\task16.exe.config
+E:\task16\task16\bin\Debug\task16.exe
+E:\task16\task16\bin\Debug\task16.pdb
+E:\task16\task16\obj\Debug\task16.csproj.AssemblyReference.cache
+E:\task16\task16\obj\Debug\task16.csproj.CoreCompileInputs.cache
+E:\task16\task16\obj\Debug\task16.exe
+E:\task16\task16\obj\Debug\task16.pdb
+D:\task16\task16\bin\Debug\task16.exe.config
+D:\task16\task16\bin\Debug\task16.exe
+D:\task16\task16\bin\Debug\task16.pdb
+D:\task16\task16\obj\Debug\task16.csproj.AssemblyReference.cache
+D:\task16\task16\obj\Debug\task16.csproj.SuggestedBindingRedirects.cache
+D:\task16\task16\obj\Debug\task16.csproj.CoreCompileInputs.cache
+D:\task16\task16\obj\Debug\task16.exe
+D:\task16\task16\obj\Debug\task16.pdb
