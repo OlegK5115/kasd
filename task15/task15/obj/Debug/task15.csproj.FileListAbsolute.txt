@@ -1,0 +1,15 @@
+E:\task15\task15\bin\Debug\task15.exe.config
+E:\task15\task15\bin\Debug\task15.exe
+E:\task15\task15\bin\Debug\task15.pdb
+E:\task15\task15\obj\Debug\task15.csproj.AssemblyReference.cache
+E:\task15\task15\obj\Debug\task15.csproj.CoreCompileInputs.cache
+E:\task15\task15\obj\Debug\task15.exe
+E:\task15\task15\obj\Debug\task15.pdb
+D:\task15\task15\bin\Debug\task15.exe.config
+D:\task15\task15\bin\Debug\task15.exe
+D:\task15\task15\bin\Debug\task15.pdb
+D:\task15\task15\obj\Debug\task15.csproj.AssemblyReference.cache
+D:\task15\task15\obj\Debug\task15.csproj.SuggestedBindingRedirects.cache
+D:\task15\task15\obj\Debug\task15.csproj.CoreCompileInputs.cache
+D:\task15\task15\obj\Debug\task15.exe
+D:\task15\task15\obj\Debug\task15.pdb
