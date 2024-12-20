@@ -1,0 +1,15 @@
+C:\Users\konni\OneDrive\Desktop\task18\task18\bin\Debug\task18.exe.config
+C:\Users\konni\OneDrive\Desktop\task18\task18\bin\Debug\task18.exe
+C:\Users\konni\OneDrive\Desktop\task18\task18\bin\Debug\task18.pdb
+C:\Users\konni\OneDrive\Desktop\task18\task18\obj\Debug\task18.csproj.AssemblyReference.cache
+C:\Users\konni\OneDrive\Desktop\task18\task18\obj\Debug\task18.csproj.CoreCompileInputs.cache
+C:\Users\konni\OneDrive\Desktop\task18\task18\obj\Debug\task18.exe
+C:\Users\konni\OneDrive\Desktop\task18\task18\obj\Debug\task18.pdb
+D:\task18\task18\bin\Debug\task18.exe.config
+D:\task18\task18\bin\Debug\task18.exe
+D:\task18\task18\bin\Debug\task18.pdb
+D:\task18\task18\obj\Debug\task18.csproj.AssemblyReference.cache
+D:\task18\task18\obj\Debug\task18.csproj.SuggestedBindingRedirects.cache
+D:\task18\task18\obj\Debug\task18.csproj.CoreCompileInputs.cache
+D:\task18\task18\obj\Debug\task18.exe
+D:\task18\task18\obj\Debug\task18.pdb
