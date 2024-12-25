@@ -1,0 +1,7 @@
+C:\Users\konni\OneDrive\Desktop\task25\task25\obj\Debug\task25.csproj.AssemblyReference.cache
+C:\Users\konni\OneDrive\Desktop\task25\task25\obj\Debug\task25.csproj.CoreCompileInputs.cache
+C:\Users\konni\OneDrive\Desktop\task25\task25\bin\Debug\task25.exe.config
+C:\Users\konni\OneDrive\Desktop\task25\task25\bin\Debug\task25.exe
+C:\Users\konni\OneDrive\Desktop\task25\task25\bin\Debug\task25.pdb
+C:\Users\konni\OneDrive\Desktop\task25\task25\obj\Debug\task25.exe
+C:\Users\konni\OneDrive\Desktop\task25\task25\obj\Debug\task25.pdb
