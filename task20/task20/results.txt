@@ -1,0 +1,8 @@
+Double => n(999)
+Float => y(1)
+Int => x(2)
+
+error:
+wrong type: DateTime for var c.
+wrong type: string for var message.
+same var: x

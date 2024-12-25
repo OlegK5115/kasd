@@ -1,0 +1,13 @@
+int x = 2;
+float y = 1;
+DateTime c = 3;
+strg message = HelloAbobus;
+string message = 10;
+
+
+double
+n
+=
+999;
+
+int x = 4;

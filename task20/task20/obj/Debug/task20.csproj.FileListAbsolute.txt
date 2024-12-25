@@ -1,0 +1,7 @@
+C:\Users\konni\OneDrive\Desktop\task20\task20\bin\Debug\task20.exe.config
+C:\Users\konni\OneDrive\Desktop\task20\task20\bin\Debug\task20.exe
+C:\Users\konni\OneDrive\Desktop\task20\task20\bin\Debug\task20.pdb
+C:\Users\konni\OneDrive\Desktop\task20\task20\obj\Debug\task20.csproj.AssemblyReference.cache
+C:\Users\konni\OneDrive\Desktop\task20\task20\obj\Debug\task20.csproj.CoreCompileInputs.cache
+C:\Users\konni\OneDrive\Desktop\task20\task20\obj\Debug\task20.exe
+C:\Users\konni\OneDrive\Desktop\task20\task20\obj\Debug\task20.pdb
