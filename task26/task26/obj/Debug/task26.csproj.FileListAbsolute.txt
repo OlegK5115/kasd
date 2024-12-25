@@ -1,0 +1,7 @@
+C:\Users\konni\OneDrive\Desktop\task26\task26\bin\Debug\task26.exe.config
+C:\Users\konni\OneDrive\Desktop\task26\task26\bin\Debug\task26.exe
+C:\Users\konni\OneDrive\Desktop\task26\task26\bin\Debug\task26.pdb
+C:\Users\konni\OneDrive\Desktop\task26\task26\obj\Debug\task26.csproj.AssemblyReference.cache
+C:\Users\konni\OneDrive\Desktop\task26\task26\obj\Debug\task26.csproj.CoreCompileInputs.cache
+C:\Users\konni\OneDrive\Desktop\task26\task26\obj\Debug\task26.exe
+C:\Users\konni\OneDrive\Desktop\task26\task26\obj\Debug\task26.pdb
