@@ -1,0 +1,14 @@
+C:\Users\konni\OneDrive\Desktop\task28\task28\obj\Debug\task28.csproj.AssemblyReference.cache
+C:\Users\konni\OneDrive\Desktop\task28\task28\obj\Debug\task28.csproj.CoreCompileInputs.cache
+C:\Users\konni\OneDrive\Desktop\task28\task28\bin\Debug\task28.exe.config
+C:\Users\konni\OneDrive\Desktop\task28\task28\bin\Debug\task28.exe
+C:\Users\konni\OneDrive\Desktop\task28\task28\bin\Debug\task28.pdb
+C:\Users\konni\OneDrive\Desktop\task28\task28\obj\Debug\task28.exe
+C:\Users\konni\OneDrive\Desktop\task28\task28\obj\Debug\task28.pdb
+E:\task28\task28\bin\Debug\task28.exe.config
+E:\task28\task28\bin\Debug\task28.exe
+E:\task28\task28\bin\Debug\task28.pdb
+E:\task28\task28\obj\Debug\task28.csproj.AssemblyReference.cache
+E:\task28\task28\obj\Debug\task28.csproj.CoreCompileInputs.cache
+E:\task28\task28\obj\Debug\task28.exe
+E:\task28\task28\obj\Debug\task28.pdb
